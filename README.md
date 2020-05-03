@@ -65,9 +65,9 @@ sizes = count_if_labels(df.location, labels)
 create_pie("Location by Region", sizes, labels)
 ```
 
-
-![png](output_4_0.png)
-
+<p align="center">
+ <img src="output_4_0.png"/>
+</p>
 
 
 ```python
@@ -77,9 +77,9 @@ sizes = count_if_labels(df.civil_status, labels)
 create_pie("Civil Status", sizes, labels)
 ```
 
-
-![png](output_5_0.png)
-
+<p align="center">
+ <img src="output_5_0.png"/>
+</p>
 
 ### A Side-by-side comparison of Social Site usage before and during the implementation of Enhanced Community Quarantine (ECQ) in the Philippines that answers the following questions:
 
