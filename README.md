@@ -158,7 +158,8 @@ create_group_bar('Why do you use these apps?',
 `count_if(array, condition)`, returns a count if the condition is met, works like countif() in excel. <br/>
 `count_if_labels(array, labels)` returns an array of count, if the labels are the same. <br/>
 `create_dict(key, subkey)` creates a new dictionary. <br/>
-`unique_data(array)` retuns an array of unique data.
+`unique_data(array)` retuns an array of unique data. <br />
+`split_and_series(array,delimeter)` split the data inside an array and returns a series.
 
 
 ```python
